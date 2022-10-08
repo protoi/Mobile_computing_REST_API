@@ -1,0 +1,46 @@
+{
+  "USERS": {
+    "TEACHER": [
+      {
+        "email": "teacher1@gmail.com",
+        "password": "12345678"
+      },
+      {
+        "email": "teacher2@gmail.com",
+        "password": "12345678"
+      },
+      {
+        "email": "teacher3@gmail.com",
+        "password": "12345678"
+      }
+    ],
+    "STUDENT": [
+      {
+        "email": "student1@gmail.com",
+        "password": "12345678"
+      },
+      {
+        "email": "student2@gmail.com",
+        "password": "12345678"
+      },
+      {
+        "email": "student3@gmail.com",
+        "password": "12345678"
+      }
+    ],
+    "ADMIN": [
+      {
+        "email": "admin1@gmail.com",
+        "password": "12345678"
+      },
+      {
+        "email": "admin2@gmail.com",
+        "password": "12345678"
+      },
+      {
+        "email": "admin3@gmail.com",
+        "password": "12345678"
+      }
+    ]
+  }
+}

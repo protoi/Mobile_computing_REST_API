@@ -42,5 +42,40 @@
         "password": "12345678"
       }
     ]
-  }
+  },
+  "CLASSES": [
+    {
+      "teacherName": "",
+      "className": "",
+      "classRoom": "",
+      "startTime": "",
+      "endTime": "",
+      "reg_students":[]
+    },
+    {
+      "teacherName": "",
+      "className": "",
+      "classRoom": "",
+      "startTime": "",
+      "endTime": "",
+      "reg_students":[]
+    },
+    {
+      "teacherName": "",
+      "className": "",
+      "classRoom": "",
+      "startTime": "",
+      "endTime": "",
+      "reg_students":[]
+    },
+    {
+      "teacherName": "",
+      "className": "",
+      "classRoom": "",
+      "startTime": "",
+      "endTime": "",
+      "reg_students":[]
+    }
+
+  ]
 }
